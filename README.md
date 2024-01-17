@@ -6,3 +6,5 @@
   - HTML
   - CSS
   - JavaScript
+ 
+- Deployed URL: https://new-qrcode-generator.netlify.app/
